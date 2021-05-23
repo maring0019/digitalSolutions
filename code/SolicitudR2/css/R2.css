@@ -1,0 +1,25 @@
+body{
+    font-family: Arial;
+}
+
+table{
+    margin-top: 15px;
+    width: 100px;
+    text-align: left;
+    background-color: white;
+}
+
+th, td{
+    border: solid 1px black;
+    padding: 10px;
+}
+
+img{
+   width: 1em;
+   height: auto;
+  float: right;
+}
+
+th{
+    position: relative;
+}

@@ -1,0 +1,26 @@
+video {
+    width: 50%;
+    height: auto;
+}
+
+img{
+  width: 50%;
+  height:auto;
+  float: left;
+  position: absolute;
+
+}
+
+input{
+  width: 10%;
+  position: relative;
+  left: 250px;
+  top: 150px;
+  z-index: 2;
+ 
+}
+contenido{
+  display: block;
+  width: 20px;
+  height: auto;
+}
